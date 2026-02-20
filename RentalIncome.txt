@@ -1,0 +1,11 @@
+Vehicle ID: V004 |    Days: 10 |   Cost: 135000.0 LKR
+Vehicle ID: B002 |    Days: 20 |   Cost: 32500.0 LKR
+Vehicle ID: C001 |    Days: 25 |   Cost: 65000.0 LKR
+Vehicle ID: BUS01 |    Days: 10 |   Cost: 280000.0 LKR
+Vehicle ID: C001 |    Days: 10 |   Cost: 26000.0 LKR
+Vehicle ID: C001 |    Days: 10 |   Cost: 26000.0 LKR
+Vehicle ID: C001 |    Days: 10 |   Cost: 26000.0 LKR
+Vehicle ID: C001 |    Days: 10 |   Cost: 26000.0 LKR
+Vehicle ID: C001 |    Days: 10 |   Cost: 26000.0 LKR
+Vehicle ID: C003 |    Days: 3 |   Cost: 10500.0 LKR
+Vehicle ID: C003 |    Days: 6 |   Cost: 21000.0 LKR

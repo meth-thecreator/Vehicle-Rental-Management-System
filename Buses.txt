@@ -1,0 +1,3 @@
+BUS01,Toyota,Coaster,25000,30,true
+BUS02,Isuzu,Journey,30000,45,true
+BUS03,Tata,LP,22000,40,false

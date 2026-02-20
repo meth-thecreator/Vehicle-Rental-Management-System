@@ -1,0 +1,7 @@
+C001,Toyota,Corolla,1600,5
+C002,Honda,Civic,2000,5
+C003,Nissan,X-Trail,2500,5
+C004,BMW,320i,5000,5
+C005,Suzuki,Swift,1500,5
+
+C006,Toyota,Carmodel,190.0,5

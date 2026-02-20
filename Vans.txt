@@ -1,0 +1,5 @@
+V001,Toyota,HiAce,12000,1200
+V002,Nissan,Caravan,11500,1300
+V003,Suzuki,Every,9000,2000
+V004,Hyundai,H1,13000,2500
+V005,Mitsubishi,Delica,12500,1700
